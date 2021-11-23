@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.8b9d5a47.chunk.css",
+    "main.js": "/Portfolio/static/js/main.20606ad3.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.20606ad3.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.cde3a7e1.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.cde3a7e1.js.map",
+    "static/css/2.32cb7bf3.chunk.css": "/Portfolio/static/css/2.32cb7bf3.chunk.css",
+    "static/js/2.d07dea78.chunk.js": "/Portfolio/static/js/2.d07dea78.chunk.js",
+    "static/js/2.d07dea78.chunk.js.map": "/Portfolio/static/js/2.d07dea78.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "precache-manifest.4e54fc028f7a32ccaf46900d99d3915c.js": "/Portfolio/precache-manifest.4e54fc028f7a32ccaf46900d99d3915c.js",
+    "service-worker.js": "/Portfolio/service-worker.js",
+    "static/css/2.32cb7bf3.chunk.css.map": "/Portfolio/static/css/2.32cb7bf3.chunk.css.map",
+    "static/css/main.8b9d5a47.chunk.css.map": "/Portfolio/static/css/main.8b9d5a47.chunk.css.map",
+    "static/media/cv1.png": "/Portfolio/static/media/cv1.54c8b12a.png",
+    "static/media/cv2.png": "/Portfolio/static/media/cv2.4c1cba5f.png",
+    "static/media/cv3.png": "/Portfolio/static/media/cv3.2da239b5.png",
+    "static/media/cv4.png": "/Portfolio/static/media/cv4.fdf35f0a.png",
+    "static/media/style.css": "/Portfolio/static/media/foad_logo.0a04cd22.jpg",
+    "static/media/git.svg": "/Portfolio/static/media/git.c31b5069.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cde3a7e1.js",
+    "static/css/2.32cb7bf3.chunk.css",
+    "static/js/2.d07dea78.chunk.js",
+    "static/css/main.8b9d5a47.chunk.css",
+    "static/js/main.20606ad3.chunk.js"
+  ]
+}
