@@ -1,0 +1,26 @@
+{
+    "data": [
+      {
+        "id" : 0,
+        "name": "Artificial Intelligence",
+        "tools": "Python, Github",
+        "link": "https://colab.research.google.com/drive/1JHEgV_etgtZnLriHguF_XybWcvW1La1B",
+        "image": [
+          "https://miro.medium.com/max/1200/1*_HqzhQqC8E4gs_-YeZsd5w.jpeg",
+          "https://www.projectwale.com/wp-content/uploads/2020/05/artificial-intelligence-1024x576.jpg",
+          "https://s27389.pcdn.co/wp-content/uploads/2021/05/how-minimise-technology-risk-ensure-ai-projects-succeed.jpeg.optimal.jpeg",
+          "https://s7280.pcdn.co/wp-content/uploads/2017/11/4-Reasons-to-Care-About-Your-Mainframe-700x400.png"
+        ]
+      }, 
+      {
+        "id" : 1,
+        "name": "Sapphire - A discord.js Framework for bots",
+        "tools": "Typescript, Eslint",
+        "link": "https://github.com/sapphiredev/framework",
+        "image": [
+          "https://camo.githubusercontent.com/0a5882e206238eff35acfe260430a4dbbfa47d31aeb4dad4592c800a17908231/68747470733a2f2f63646e2e736b7972612e70772f67682d6173736574732f73617070686972652d62616e6e65722e706e67"
+        ]
+      }  
+    ]
+  }
+  
